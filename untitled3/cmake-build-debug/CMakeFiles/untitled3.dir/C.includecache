@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucas Mrc/CLionProjects/untitled3/Floor.c
+stdlib.h
+-
+stdio.h
+-
+Floor.h
+C:/Users/Lucas Mrc/CLionProjects/untitled3/Floor.h
+fcntl.h
+-
+
+C:/Users/Lucas Mrc/CLionProjects/untitled3/Floor.h
+
